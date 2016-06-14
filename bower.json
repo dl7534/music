@@ -1,7 +1,10 @@
 {
-  "name": "163music",
+  "name": "qqMusic",
   "description": "",
   "main": "index.html",
+  "authors": [
+    "KYL"
+  ],
   "license": "MIT",
   "homepage": "",
   "ignore": [
